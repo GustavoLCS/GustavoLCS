@@ -4,7 +4,7 @@
 
 - Estou atualmente estudando python 
 - tenho conhecimento em html, css e javaScript
-- Utilizo esse espaço para organizaçao e compartilhamento de progetos
+- Utilizo esse espaço para organizaçao e compartilhamento de projetos
   
 ### Voçê pode entrar em contato comigo 📧
 
